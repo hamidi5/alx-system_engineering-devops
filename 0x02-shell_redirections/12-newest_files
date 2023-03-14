@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | head -10 | xargs -I {} basename {} | sort -r 
+ls -t1 | head 
